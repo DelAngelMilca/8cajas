@@ -1,0 +1,34 @@
+div {
+	height: 150px;
+	width: 150px;
+	background-color: #666;
+	border:1px solid #000000;
+	margin: 7px;
+}
+	
+.derecha{
+	display: inline-block;
+}
+.dentro {
+
+	display:inline-block;
+	
+
+}
+.padre{
+height: 200px;
+width: 550px;
+padding-bottom: -5px; 
+
+
+
+
+
+
+
+}
+
+.clearfix:after{
+	clear: both;
+
+}
